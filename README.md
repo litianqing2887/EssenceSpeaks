@@ -1,1 +1,1 @@
-# EssenceSpeaks
+A piece of text, represented by ASCII codes.
